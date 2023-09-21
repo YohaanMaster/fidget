@@ -1,4 +1,4 @@
-#Fidget website
+# Fidget website
 
-##Demo
+## Demo
 Test to make a simple website. I be flossin
